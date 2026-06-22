@@ -13,6 +13,18 @@ Business Intelligence project developed with Power BI to analyse Airbnb markets 
 
 ---
 
+## Dashboard Preview
+
+| Global Overview | Pricing Analysis |
+|----------------|------------------|
+| ![](assets/Analisis_global.png) | ![](assets/Analisis_precio.png) |
+
+| Host Analysis | Conclusions |
+|---------------|-------------|
+| ![](assets/Analisis_host.png) | ![](assets/Conclusiones.png) |
+
+---
+
 ## Project Overview
 
 This project explores Airbnb listings across multiple international markets with the objective of identifying pricing patterns, host behaviour and market differences through Business Intelligence techniques.
@@ -115,40 +127,6 @@ Key analytical dimensions include:
 - Host Information
 - Pricing Metrics
 - Review Metrics
-
----
-
-## Dashboard Sections
-
-### Global Market Overview
-
-Executive dashboard presenting key KPIs and market comparisons.
-
-![Global Overview](assets/Analisis_global.png)
-
----
-
-### Pricing Analysis
-
-Analysis of pricing behaviour, average prices, reviews and neighbourhood performance.
-
-![Pricing Analysis](assets/Analisis_precio.png)
-
----
-
-### Host Analysis
-
-Analysis of host characteristics and listing behaviour.
-
-![Host Analysis](assets/Analisis_host.png)
-
----
-
-### Conclusions
-
-Summary of key findings and business recommendations.
-
-![Conclusions](assets/Conclusiones.png)
 
 ---
 
